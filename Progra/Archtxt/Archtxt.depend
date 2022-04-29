@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1651021679 source:c:\users\rdema\documents\progra\archtxt\main.c
+	"funciones.h"
+
+1651021865 c:\users\rdema\documents\progra\archtxt\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1651021865 source:c:\users\rdema\documents\progra\archtxt\funciones.c
+	"funciones.h"
+
