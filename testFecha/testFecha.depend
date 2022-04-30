@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1649516006 source:c:\users\juamp\documents\progra 2022\c++\testfecha\main.cpp
+	<iostream>
+	"../Fecha/Fecha.h"
+
+1649516006 c:\users\juamp\documents\progra 2022\c++\fecha\fecha.h
+
+1650718855 source:c:\users\rdema\documents\progra 2022\c++\testfecha\main.cpp
+	<iostream>
+	"../Fecha/Fecha.h"
+
+1650718035 c:\users\rdema\documents\progra 2022\c++\fecha\fecha.h
+	<iostream>
+
